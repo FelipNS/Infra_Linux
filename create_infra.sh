@@ -30,7 +30,3 @@ chmod 770 /sec
 chgrp GRP_ADM /adm
 chgrp GRP_VEN /ven
 chgrp GRP_SEC /sec
-
-
-
-
